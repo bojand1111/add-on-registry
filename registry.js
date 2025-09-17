@@ -14,4 +14,16 @@ export const Registry = {
         name: "Paint",
         creator: "ASCENT"
     },
+    xp_furniture: {
+        name: "Furniture",
+        creator: "XP GAMES"
+    },
+    xp_dl: {
+        name: "Dynamic Light",
+        creator: "XP GAMES"
+    },
+    xp_cd: {
+        name: "Cave Dweller",
+        creator: "XP GAMES"
+    },
 };
