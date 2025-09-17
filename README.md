@@ -16,4 +16,21 @@ Please leave a trailing comma at the end of the list and use 4 spaces for indent
 
 
 ## Including it in your pack
+To use the registry in your project, install it via NPM from this repository:
+```
+npm i https://github.com/Bedrock-OSS/add-on-registry
+```
 
+You can now use it in your project like this:
+```javascript
+import { Registry } from "bedrock-add-on-registry"
+
+function getAddOnName(identifier) {
+    const namespace = identifier.split(":")[0];
+    const entry = Registry[namespace];
+    // Use the namespace itself as fallback
+    return entry ? entry.name : namespace;
+}
+```
+
+Alternatively, if you are not using a bundler, you can also copy the file `registry.js` and use it in your project.
