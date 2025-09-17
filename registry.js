@@ -10,4 +10,8 @@ export const Registry = {
         name: "Mowzie’s Mobs",
         creator: "Honeyfrost"
     },
+    ascent_paint: {
+        name: "Paint",
+        creator: "ASCENT"
+    },
 };
