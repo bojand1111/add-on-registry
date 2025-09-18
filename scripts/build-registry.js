@@ -54,8 +54,14 @@ if (hasDuplicate) {
 }
 
 const output = `/**
- * AUTO-GENERATED FILE! DO NOT EDIT!
- * Run \`npm run build\` to regenerate this file from /registry/*.json
+ * AUTO-GENERATED FILE! DO NOT EDIT DIRECTLY!
+ *
+ * How to contribute:
+ *   1. Add or update a JSON file inside the /registry folder (use your creator/studio name as filename).
+ *   2. Follow the same structure as the other files (namespace -> { name, creator }).
+ *   3. Open a pull request. The GitHub Action will regenerate the Registry.js file automatically.
+ *
+ * Note: Duplicate namespaces are not allowed. The build will fail if a namespace is already taken.
  *
  * @type {import("./types").RegistryMap}
  */
