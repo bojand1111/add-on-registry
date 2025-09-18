@@ -66,4 +66,12 @@ export const Registry = {
         name: "Epic Fantasy",
         creator: "Waypoint Studios",
     },
+    gm1_ord: {
+        name: "Sonic",
+        creator: "Gamemode One",
+    },
+    gm1_zen: {
+        name: "How to Train Your Dragon",
+        creator: "Gamemode One",
+    },
 };
