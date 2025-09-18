@@ -5,33 +5,9 @@
  * @type {import("./types").RegistryMap}
  */
 export const Registry = {
-    pu_biomes: {
-        name: "MORE BIOMES Add-On",
-        creator: "Pixelusion"
-    },
-    pu_bn: {
-        name: "BURNT Add-On",
-        creator: "Pixelusion"
-    },
-    pu_blasters: {
-        name: "BLASTERS Add-On",
-        creator: "Pixelusion"
-    },
-    pixelusion_dbp: {
-        name: "PORTAL BACKPACKS Add-On",
-        creator: "Pixelusion"
-    },
-    pixelusion_td: {
-        name: "Training Dummies Add-On",
-        creator: "Pixelusion"
-    },
-    pu_se: {
-        name: "SHIELDS Add-On",
-        creator: "Pixelusion"
-    },
-    spark_portals: {
-        name: "Spark Portals",
-        creator: "Spark Universe",
+    andexsa: {
+        name: "8Crafter's Entity Scale, NBT, and Behavior Modifier, Bossbar, and Morph Addon",
+        creator: "8Crafter",
     },
     andexdb: {
         name: "8Crafter's Server Utilities & Debug Sticks",
@@ -53,17 +29,57 @@ export const Registry = {
         name: "Elemental Crops",
         creator: "Darkosto",
     },
+    gm1_ord: {
+        name: "Sonic",
+        creator: "Gamemode One",
+    },
+    gm1_zen: {
+        name: "How to Train Your Dragon",
+        creator: "Gamemode One",
+    },
     hf_mzs: {
         name: "Mowzie’s Mobs",
         creator: "Honeyfrost",
+    },
+    mco_tde: {
+        name: "The Dawn Era",
+        creator: "Mush Co",
     },
     nps_mot: {
         name: "More Ores and Tools",
         creator: "Netherpixel",
     },
+    pu_biomes: {
+        name: "MORE BIOMES Add-On",
+        creator: "Pixelusion",
+    },
+    pu_bn: {
+        name: "BURNT Add-On",
+        creator: "Pixelusion",
+    },
+    pu_blasters: {
+        name: "BLASTERS Add-On",
+        creator: "Pixelusion",
+    },
+    pixelusion_dbp: {
+        name: "PORTAL BACKPACKS Add-On",
+        creator: "Pixelusion",
+    },
+    pixelusion_td: {
+        name: "Training Dummies Add-On",
+        creator: "Pixelusion",
+    },
+    pu_se: {
+        name: "SHIELDS Add-On",
+        creator: "Pixelusion",
+    },
     pod_farm: {
         name: "FARMING",
         creator: "Podcrash",
+    },
+    httyd: {
+        name: "Age of Berk",
+        creator: "S3XT4 Studios",
     },
     spark_portals: {
         name: "Spark Portals",
@@ -105,44 +121,64 @@ export const Registry = {
         name: "SpongeBob SquarePants",
         creator: "Spark Universe",
     },
-    gm1_ord: {
-        name: "Sonic",
-        creator: "Gamemode One",
+    squaredreams_fhd: {
+        name: "Furniture HD",
+        creator: "Square Dreams",
     },
-    gm1_zen: {
-        name: "How to Train Your Dragon",
-        creator: "Gamemode One",
+    squaredreams_realism: {
+        name: "Realism+",
+        creator: "Square Dreams",
+    },
+    squaredreams_bam: {
+        name: "Morph Into Anything",
+        creator: "Square Dreams",
     },
     stark_ep: {
         name: "Enchantments Plus",
         creator: "StarkTMA",
     },
-    mco_tde: {
-        name: "The Dawn Era",
-        creator: "Mush Co"
-    },
-    httyd: {
-        name: "Age of Berk",
-        creator: "S3XT4 Studios",
-    },
-    tomhmagic_realight:{
-        name: "Realight Reimagined",
-        creator: "Tomhmagic Creations",
-    },
-    thm_ecp:{
-        name: "Economy+",
-        creator: "Tomhmagic Creations",
-    },
-    thm_rmt:{
-        name: "Realm Management Tool",
-        creator: "Tomhmagic Creations",
-    },
-    tm_aqc:{
+    tm_aqc: {
         name: "Aquaculture",
         creator: "Team Metallurgy",
     },
-    mb_af:{
+    mb_af: {
         name: "Auto Factory",
         creator: "Team Metallurgy",
-    }
+    },
+    tomhmagic_realight: {
+        name: "Realight Reimagined",
+        creator: "Tomhmagic Creations",
+    },
+    thm_ecp: {
+        name: "Economy+",
+        creator: "Tomhmagic Creations",
+    },
+    thm_rmt: {
+        name: "Realm Management Tool",
+        creator: "Tomhmagic Creations",
+    },
+    ulkd_ess: {
+        name: "Essentials",
+        creator: "Unlinked",
+    },
+    ulkd_alch: {
+        name: "Alchemy",
+        creator: "Unlinked",
+    },
+    wypnt_ef: {
+        name: "Epic Fantasy",
+        creator: "Waypoint Studios",
+    },
+    xp_furniture: {
+        name: "Furniture",
+        creator: "XP GAMES",
+    },
+    xp_dl: {
+        name: "Dynamic Light",
+        creator: "XP GAMES",
+    },
+    xp_cd: {
+        name: "Cave Dweller",
+        creator: "XP GAMES",
+    },
 };
