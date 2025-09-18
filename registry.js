@@ -158,4 +158,24 @@ export const Registry = {
         name: "Age of Berk",
         creator: "S3XT4 Studios",
     },
+    tomhmagic_realight:{
+        name: "Realight Reimagined",
+        creator: "Tomhmagic Creations",
+    },
+    thm_ecp:{
+        name: "Economy+",
+        creator: "Tomhmagic Creations",
+    },
+    thm_rmt:{
+        name: "Realm Management Tool",
+        creator: "Tomhmagic Creations",
+    },
+    tm_aqc:{
+        name: "Aquaculture",
+        creator: "Team Metallurgy",
+    },
+    mb_af:{
+        name: "Auto Factory",
+        creator: "Team Metallurgy",
+    }
 };
