@@ -66,4 +66,40 @@ export const Registry = {
         name: "Epic Fantasy",
         creator: "Waypoint Studios",
     },
+    spark: {
+        name: "RealismCraft",
+        creator: "Spark Universe",
+    },
+    spark_vfx: {
+        name: "Realism VFX",
+        creator: "Spark Universe",
+    },
+    spark_disasters: {
+        name: "Insane Disasters",
+        creator: "Spark Universe",
+    },
+    spark_amm1: {
+        name: "Lava Chicken Add-On",
+        creator: "Spark Universe",
+    },
+    spark_amm2: {
+        name: "A Minecraft Movie: Add-On",
+        creator: "Spark Universe",
+    },
+    spark_amm3: {
+        name: "A Minecraft Movie Jetpack Add-On",
+        creator: "Spark Universe",
+    },
+    spark_pets: {
+        name: "Spark Pets (Lite)",
+        creator: "Spark Universe",
+    },
+    spark_pets_pro: {
+        name: "Spark Pets (Premium)",
+        creator: "Spark Universe",
+    },
+    spark_spongebob: {
+        name: "SpongeBob SquarePants",
+        creator: "Spark Universe",
+    },
 };
