@@ -2,6 +2,30 @@
  * @type {import("./types").RegistryMap}
  */
 export const Registry = {
+    pu_biomes: {
+        name: "MORE BIOMES Add-On",
+        creator: "Pixelusion"
+    },
+    pu_bn: {
+        name: "BURNT Add-On",
+        creator: "Pixelusion"
+    },
+    pu_blasters: {
+        name: "BLASTERS Add-On",
+        creator: "Pixelusion"
+    },
+    pixelusion_dbp: {
+        name: "PORTAL BACKPACKS Add-On",
+        creator: "Pixelusion"
+    },
+    pixelusion_td: {
+        name: "Training Dummies Add-On",
+        creator: "Pixelusion"
+    },
+    pu_se: {
+        name: "SHIELDS Add-On",
+        creator: "Pixelusion"
+    },
     spark_portals: {
         name: "Spark Portals",
         creator: "Spark Universe",
