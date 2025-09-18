@@ -153,6 +153,7 @@ export const Registry = {
     mco_tde: {
         name: "The Dawn Era",
         creator: "Mush Co"
+    },
     httyd: {
         name: "Age of Berk",
         creator: "S3XT4 Studios",
