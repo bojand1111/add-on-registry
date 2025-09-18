@@ -114,4 +114,12 @@ export const Registry = {
         name: "SpongeBob SquarePants",
         creator: "Spark Universe",
     },
+    gm1_ord: {
+        name: "Sonic",
+        creator: "Gamemode One",
+    },
+    gm1_zen: {
+        name: "How to Train Your Dragon",
+        creator: "Gamemode One",
+    },
 };
