@@ -66,4 +66,16 @@ export const Registry = {
         name: "Epic Fantasy",
         creator: "Waypoint Studios",
     },
+    squaredreams_fhd: {
+        name: "Furniture HD",
+        creator: "Square Dreams",
+    },
+    squaredreams_realism: {
+        name: "Realism+",
+        creator: "Square Dreams",
+    },
+    squaredreams_bam: {
+        name: "Morph Into Anything",
+        creator: "Square Dreams",
+    },
 };
