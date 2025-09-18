@@ -126,4 +126,8 @@ export const Registry = {
         name: "Enchantments Plus",
         creator: "StarkTMA",
     },
-};
+    mco_tde: {
+        name: "The Dawn Era",
+        creator: "Mush Co"
+    },
+}
