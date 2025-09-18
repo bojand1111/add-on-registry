@@ -13,6 +13,7 @@ Information:
 * `creator`: The name of the creator or studio that created the add-on.
 
 Please leave a trailing comma at the end of the list and use 4 spaces for indentation to make merging easier!
+You can also write your entries at any position in the list, not only at the end. That helps reduce merge conflicts.
 
 
 ## Including it in your pack
