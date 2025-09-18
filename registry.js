@@ -130,4 +130,4 @@ export const Registry = {
         name: "The Dawn Era",
         creator: "Mush Co"
     },
-}
+};
