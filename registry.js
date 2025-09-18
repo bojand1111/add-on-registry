@@ -126,4 +126,8 @@ export const Registry = {
         name: "Enchantments Plus",
         creator: "StarkTMA",
     },
+    httyd: {
+        name: "Age of Berk",
+        creator: "S3XT4 Studios",
+    },
 };
