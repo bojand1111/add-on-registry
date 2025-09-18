@@ -122,4 +122,8 @@ export const Registry = {
         name: "How to Train Your Dragon",
         creator: "Gamemode One",
     },
+    stark_ep: {
+        name: "Enchantments Plus",
+        creator: "StarkTMA",
+    },
 };
