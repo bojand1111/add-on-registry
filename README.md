@@ -13,12 +13,12 @@ Your pull-request will automatically merge all JSON files together into 1 `Regis
    - The filename should be your creator/studio name (e.g. `ascent.json`, `spark.json`).
 2. Follow the structure used in the other files. Example:
    ```json
-   {
-     "ascent_paint": {
-       "name": "Paint",
-       "creator": "ASCENT"
-     }
-   }
+    {
+        "ascent_paint": {
+            "name": "Paint",
+            "creator": "ASCENT"
+        }
+    }
    ```
 3. Commit your JSON file, then open a pull request.
 
