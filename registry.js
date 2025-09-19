@@ -74,6 +74,22 @@ export const Registry = {
         name: "FARMING",
         creator: "Podcrash",
     },
+    pod_gard: {
+        name: "GARDENING",
+        creator: "Podcrash",
+    },
+    pod_engi: {
+        name: "MACHINES",
+        creator: "Podcrash",
+    },
+    pod_rpg: {
+        name: "RPG SKILLS",
+        creator: "Podcrash",
+    },
+    pod_trn: {
+        name: "TRAINS",
+        creator: "Podcrash",
+    },
     bf_rb: {
         name: "Biomes",
         creator: "Block Factory",
