@@ -146,6 +146,18 @@ export const Registry = {
         name: "How to Train Your Dragon",
         creator: "Gamemode One",
     },
+    float_fc: {
+        name: "Forest Craft",
+        creator: "Float Studios",
+    },
+    float_fca: {
+        name: "Fur Craft",
+        creator: "Float Studios",
+    },
+    float_br: {
+        name: "The Backrooms Add-On",
+        creator: "Float Studios",
+    },
     stark_ep: {
         name: "Enchantments Plus",
         creator: "StarkTMA",
