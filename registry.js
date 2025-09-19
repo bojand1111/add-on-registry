@@ -158,6 +158,10 @@ export const Registry = {
         name: "Age of Berk",
         creator: "S3XT4 Studios",
     },
+    shapescape_ext:{
+        name: "The Extinct",
+        creator: "shapescape"
+    },
     tomhmagic_realight:{
         name: "Realight Reimagined",
         creator: "Tomhmagic Creations",
