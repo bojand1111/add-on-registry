@@ -160,7 +160,7 @@ export const Registry = {
     },
     shapescape_ext:{
         name: "The Extinct",
-        creator: "shapescape"
+        creator: "Shapescape"
     },
     tomhmagic_realight:{
         name: "Realight Reimagined",
