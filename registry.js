@@ -177,5 +177,9 @@ export const Registry = {
     mb_af:{
         name: "Auto Factory",
         creator: "Team Metallurgy",
+    },
+    jm: {
+        name: "jeanmajid",
+        creator: "jeanmajid",
     }
 };
