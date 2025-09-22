@@ -5,11 +5,11 @@ If you are an Add-On creator, you are welcome to add your pack to the registry s
 
 
 ## Contribution
-To add your project(s), create or edit a JSON file inside the `/registry` folder with the required details, and submit it via pull-request.
+To add your project(s), create a new JSON file or edit one inside the `/registry` folder with the required details, and submit it via pull-request.
 Your pull-request will automatically merge all JSON files together into 1 `registry.js`.
 
 ### Steps
-1. Create or edit a new JSON file inside the `/registry` folder.  
+1. Create a new JSON file or edit one inside the `/registry` folder.  
    - If you're a "new" creator, the filename should be your creator/studio name (e.g. `ascent.json`, `spark.json`).
 2. Follow the structure used in the other files. Example:
    ```json
@@ -46,5 +46,3 @@ function getAddOnName(identifier) {
     return entry ? entry.name : namespace;
 }
 ```
-
-Alternatively, if you are not using a bundler, you can also copy the generated `registry.js` and use it in your project.
