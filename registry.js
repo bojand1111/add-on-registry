@@ -26,6 +26,10 @@ export const Registry = {
         name: "SHIELDS Add-On",
         creator: "Pixelusion"
     },
+    cc_su: {
+        name: "SCP: Uncaged Add-On",
+        creator: "Cloud Corp"
+    },
     spark_portals: {
         name: "Spark Portals",
         creator: "Spark Universe",
