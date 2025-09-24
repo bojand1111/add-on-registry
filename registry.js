@@ -4,31 +4,31 @@
 export const Registry = {
     pu_biomes: {
         name: "MORE BIOMES Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     pu_bn: {
         name: "BURNT Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     pu_blasters: {
         name: "BLASTERS Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     pixelusion_dbp: {
         name: "PORTAL BACKPACKS Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     pixelusion_td: {
         name: "Training Dummies Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     pu_se: {
         name: "SHIELDS Add-On",
-        creator: "Pixelusion"
+        creator: "Pixelusion",
     },
     cc_su: {
         name: "SCP: Uncaged Add-On",
-        creator: "Cloud Corp"
+        creator: "Cloud Corp",
     },
     spark_portals: {
         name: "Spark Portals",
@@ -102,21 +102,9 @@ export const Registry = {
         name: "8Crafter's Entity Scale, NBT, and Behavior Modifier, Bossbar, and Morph Addon",
         creator: "8Crafter",
     },
-    andexrp: {
-        name: "8Crafter's Entity Scale, NBT, and Behavior Modifier, Bossbar, and Morph Addon",
-        creator: "8Crafter",
-    },
     andexdb: {
         name: "8Crafter's Server Utilities & Debug Sticks",
         creator: "8Crafter",
-    },
-    andexsl: {
-        name: "8Crafter's Secret Items Loader",
-        creator: "8Crafter",
-    },
-    bluemods: {
-        name: "BlueMods Anticheat",
-        creator: "BlueShadow",
     },
     wypnt_ef: {
         name: "Epic Fantasy",
@@ -196,38 +184,38 @@ export const Registry = {
     },
     mco_tde: {
         name: "The Dawn Era",
-        creator: "Mush Co"
+        creator: "Mush Co",
     },
     httyd: {
         name: "Age of Berk",
         creator: "S3XT4 Studios",
     },
-    shapescape_ext:{
+    shapescape_ext: {
         name: "The Extinct",
-        creator: "Shapescape"
+        creator: "Shapescape",
     },
-    tomhmagic_realight:{
+    tomhmagic_realight: {
         name: "Realight Reimagined",
         creator: "Tomhmagic Creations",
     },
-    thm_ecp:{
+    thm_ecp: {
         name: "Economy+",
         creator: "Tomhmagic Creations",
     },
-    thm_rmt:{
+    thm_rmt: {
         name: "Realm Management Tool",
         creator: "Tomhmagic Creations",
     },
-    tm_aqc:{
+    tm_aqc: {
         name: "Aquaculture",
         creator: "Team Metallurgy",
     },
-    mb_af:{
+    mb_af: {
         name: "Auto Factory",
         creator: "Team Metallurgy",
     },
     jm: {
         name: "jeanmajid",
         creator: "jeanmajid",
-    }
+    },
 };
