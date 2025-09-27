@@ -1,4 +1,4 @@
-# Add-On Registry
+# Add-On Registry [![npm version](https://img.shields.io/npm/v/@bedrock-oss/add-on-registry)](https://www.npmjs.com/package/@bedrock-oss/add-on-registry)
 A registry for Minecraft Bedrock Add-Ons and their basic meta-data. This is intended to be used by features such as WAILA-Add-Ons to display accurate information about packs.
 
 If you are an Add-On creator, you are welcome to add your pack to the registry so that it can be displayed accurately in other Add-Ons that display information about content from various Add-Ons.
