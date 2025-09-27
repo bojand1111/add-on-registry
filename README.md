@@ -6,7 +6,7 @@ If you are an Add-On creator, you are welcome to add your pack to the registry s
 
 ## Contribution
 To add your project(s), create a new JSON file or edit one inside the `/registry` folder with the required details, and submit it via pull-request.
-Your pull-request will automatically merge all JSON files together into 1 `registry.js`.
+Your pull-request will automatically merge all JSON files together into one file `registry.js` that is not tracked by Git but published to NPM.
 
 ### Steps
 1. Create a new JSON file or edit one inside the `/registry` folder.  
@@ -32,12 +32,12 @@ Your pull-request will automatically merge all JSON files together into 1 `regis
 ## Including it in your pack
 To use the registry in your project, install it via NPM from this repository:
 ```
-npm i https://github.com/Bedrock-OSS/add-on-registry
+npm i @bedrock-oss/add-on-registry
 ```
 
 You can now use it in your project like this:
 ```javascript
-import { Registry } from "bedrock-add-on-registry"
+import { Registry } from "@bedrock-oss/add-on-registry"
 
 function getAddOnName(identifier) {
     const namespace = identifier.split(":")[0];
