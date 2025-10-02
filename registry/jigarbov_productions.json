@@ -1,0 +1,38 @@
+{
+    "jig_atw": {
+        "name": "ALL THE WOOL",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_bmu": {
+        "name": "Battle Mutants",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_ccomp": {
+        "name": "Computers",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_mtd": {
+        "name": "Detect-Ore",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_pcs": {
+        "name": "Papercraft Mob Stickers",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_pco": {
+        "name": "Advanced Compass",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_poip": {
+        "name": "Poisonous Potato",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_teta": {
+        "name": "Tetris® Add-On",
+        "creator": "Jigarbov Productions"
+    },
+    "jig_common": {
+        "name": "Cross-AddOn Jigarbov Pack",
+        "creator": "Jigarbov Productions"
+    }
+}
